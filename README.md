@@ -1,5 +1,7 @@
 # SampleData
-Sample Datasets to be used by the SlicerMorph toolkit
+Sample Datasets to be used by the SlicerMorph toolkit as published in SlicerMorph: An open and extensible platform to retrieve, visualize and analyze 3D morphology (Methods in Ecology and Evolution) 
+
+[![DOI](https://zenodo.org/badge/383272706.svg)](https://zenodo.org/badge/latestdoi/383272706)
 
 <h2>Description of Datasets </H2>
 <li><b>Gorilla_Skull_LMs.zip:</b> 41 cranial LMs annotated on 23 adult Gorilla skulls from the skeletal collection of National Museum of Natural History. Landmarks for each specimen was saved as .fcsv file (comma-separated fiducial file) readable by 3D-Slicer. All samples follow the same landmark sequence. Coordinate values are in millimeters.
